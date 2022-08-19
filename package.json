@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "productName": "D-DAY Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi https://github.com/diwerfhe43)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/diwerfhe43/BEELAUNCHER",
+  "homepage": "https://github.com/diwerfhe43/D-DAY-Launcher",
   "bugs": {
-    "url": "https://github.com/diwerfhe43/BEELAUNCHER/issues"
+    "url": "https://github.com/diwerfhe43/D-DAY-Launcher/issues"
   },
   "private": true,
   "main": "index.js",
