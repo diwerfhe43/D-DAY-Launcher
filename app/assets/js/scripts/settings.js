@@ -1333,7 +1333,7 @@ function populateJavaExecDetails(execPath){
                 settingsJavaExecDetails.innerHTML = `Selected: Java ${v.version.major}.${v.version.minor}.${v.version.revision} (x${v.arch})${vendor}`
             }
         } else {
-            settingsJavaExecDetails.innerHTML = 'Invalid Selection'
+            settingsJavaExecDetails.innerHTML = '선택한게 없습니다'
         }
     })
 }
