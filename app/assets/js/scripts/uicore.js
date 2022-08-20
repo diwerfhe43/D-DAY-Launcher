@@ -50,7 +50,7 @@ if(!isDev){
                 loggerAutoUpdaterSuccess.log('새로운 업데이트', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/diwerfhe43/BEELAUNCHER/releases/download/v${info.version}/D-DAY-Launcher-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
+                    info.darwindownload = `https://github.com/diwerfhe43/BEELAUNCHER/releases/download/v${info.version}/D-Day-Launcher-setup.dmg`
                     showUpdateUI(info)
                 }
                 
