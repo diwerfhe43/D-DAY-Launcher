@@ -532,7 +532,7 @@
           }
         },
         {
-          "id": "com.git.UNU:PartsPack:5.1.4@jar",
+          "id": "com.cure.UNU:PartsPack:5.1.4@jar",
           "name": "Parts Pack",
           "type": "ForgeMod",
           "artifact": {
@@ -542,7 +542,7 @@
           }
         },
         {
-          "id": "com.git.UNU:MilitaryMTS:5.0.0@jar",
+          "id": "com.set.UNU:MilitaryMTS:5.0.0@jar",
           "name": "Military MTS",
           "type": "ForgeMod",
           "artifact": {
@@ -552,7 +552,7 @@
           }
         },
         {
-          "id": "com.git.UNU:civilianpack:5.3.2@jar",
+          "id": "com.ds.UNU:civilianpack:5.3.2@jar",
           "name": "Civilian Pack",
           "type": "ForgeMod",
           "artifact": {
@@ -562,7 +562,7 @@
           }
         },
         {
-          "id": "com.git.camera:cameramod:1.0.11@jar",
+          "id": "com.as.camera:cameramod:1.0.11@jar",
           "name": "camera",
           "type": "ForgeMod",
           "artifact": {
