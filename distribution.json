@@ -9,11 +9,11 @@
     "servers": [
       {
         "id": "beeserver-1.12.2",
-        "name": "꿀벌온라인 베타",
+        "name": "꿀벌온라인 정식",
         "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
         "icon": "https://cdn.discordapp.com/attachments/892483230559780934/1010357622916010085/icon.png",
         "version": "1.0.0",
-        "address": "honeybeeonline.mcv.kr:10101",
+        "address": "honeybeeonline.mcv.kr",
         "minecraftVersion": "1.12.2",
         "discord": {
           "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
