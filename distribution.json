@@ -502,6 +502,26 @@
             }
           },
           {
+            "id": "com.git.SCP:SCPLockdown:2.4.2@jar",
+            "name": "§aSCP Lockdown",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 11943281,
+              "url": "https://github.com/diwerfhe43/D-DAY-Launcher/raw/main/SCP%2BLockdown-1.12.2-2.4.2-release.jar",
+              "MD5": "83194d3ab8a250ce0452cb013c6d1769"
+            }
+          },
+          {
+            "id": "com.git.Little:LittleTiles:1.5.58@jar",
+            "name": "§aLittleTiles",
+            "type": "ForgeMod",
+            "artifact": {
+              "size": 2275410,
+              "url": "https://cdn.discordapp.com/attachments/1009300996549263401/1011821272059105340/LittleTiles_v1.5.58_mc1.12.2.jar",
+              "MD5": "0c61f5177285caec3887e06743d552f4"
+            }
+          },
+          {
             "id": "org.zawamod:zawa:2.1.3@jar",
             "name": "Zoo and Wild Animals Mod: Rebuilt",
             "type": "ForgeMod",
