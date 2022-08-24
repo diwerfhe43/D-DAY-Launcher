@@ -327,13 +327,13 @@
             }
           },
           {
-            "id": "com.creativemd:creativecore:1.10@jar",
+            "id": "com.creativemd:creativecore:1.10.70@jar",
             "name": "CreativeCore",
             "type": "ForgeMod",
             "artifact": {
               "size": 1290012,
-              "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/CreativeCore_v1.10.65_mc1.12.2.jar",
-              "MD5": "e6e4ad48ce7d4f0cd47a5d106dbad745"
+              "url": "https://cdn.discordapp.com/attachments/1009300996549263401/1011824613111648306/CreativeCore_v1.10.70_mc1.12.2.jar",
+              "MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
             }
           },
           {
