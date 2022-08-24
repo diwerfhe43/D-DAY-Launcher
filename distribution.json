@@ -523,7 +523,7 @@
         },
         {
           "id": "com.git.UNU:Immersivevechicles:21.3.0@jar",
-          "name": "Immersive% Vehicles",
+          "name": "Immersive Vehicles",
           "type": "ForgeMod",
           "artifact": {
             "size": 2275410,
@@ -532,7 +532,7 @@
           }
         },
         {
-          "id": "com.git.UNU:PartsPack:5.1.4@jar",
+          "id": "com.git.UNUS:PartsPack:5.1.4@jar",
           "name": "Parts Pack",
           "type": "ForgeMod",
           "artifact": {
@@ -542,7 +542,7 @@
           }
         },
         {
-          "id": "com.git.UNU:MilitaryMTS:5.0.0@jar",
+          "id": "com.git.UNUT:MilitaryMTS:5.0.0@jar",
           "name": "Military MTS",
           "type": "ForgeMod",
           "artifact": {
@@ -552,7 +552,7 @@
           }
         },
         {
-          "id": "com.git.UNU:civilianpack:5.3.2@jar",
+          "id": "com.git.UNUD:civilianpack:5.3.2@jar",
           "name": "Civilian Pack",
           "type": "ForgeMod",
           "artifact": {
