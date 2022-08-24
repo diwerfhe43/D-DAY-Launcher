@@ -537,7 +537,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 17339392,
-            "url": "https://github.com/diwerfhe43/D-DAY-Launcher/blob/main/UNU%2BParts%2BPack%2B%5BMTS%5D%2B1.12.2-21.3.0-5.1.4.jar",
+            "url": "https://github.com/diwerfhe43/D-DAY-Launcher/raw/main/UNU%2BParts%2BPack%2B%5BMTS%5D%2B1.12.2-21.3.0-5.1.4.jar",
             "MD5": "53410cc1202af863a2d45ae669e4f042"
           }
         },
@@ -549,6 +549,16 @@
             "size": 16875520,
             "url": "https://github.com/diwerfhe43/D-DAY-Launcher/raw/main/UNU%2BMilitary%2BPack%2B%5BMTS%5D%2B1.12.2-21.3.0-5.0.0.jar",
             "MD5": "6c59290716e3097369e752698d770a79"
+          }
+        },
+        {
+          "id": "com.ds.UNU:civilianpack:5.3.2@jar",
+          "name": "Civilian Pack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 105224192,
+            "url": "https://store7.gofile.io/download/a92e3cf2-366d-4748-9d3d-62f36c51801d/UNU%2BCivilian%2BPack%2B%5BMTS%5D%2B1.12.2-21.3.0-5.3.2.jar",
+            "MD5": "de9238a60e5dd34fb8c19984070027f0"
           }
         },
         {
